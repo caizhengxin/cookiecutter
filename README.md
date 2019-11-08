@@ -248,6 +248,7 @@ Please avoid creating PRs for listing additional templates. We outsourced their 
 * [python-project-template](https://github.com/Kwpolska/python-project-template): A template for Python projects with sophisticated release automation.
 * [cookiecutter-anyblok-project](https://github.com/AnyBlok/cookiecutter-anyblok-project): A template for Anyblok based projects.
 * [cookiecutter-python-cli](https://github.com/xuanluong/cookiecutter-python-cli): A cookiecutter template for creating a Python CLI application using click.
+* [cookiecutter-package](https://github.com/caizhengxin/cookiecutter-package): A template for python package and cython package.
 
 ### Python-Django
 
@@ -322,6 +323,10 @@ Meta-templates for generating Cookiecutter project templates.
 ### Common Lisp
 
 * [cookiecutter-cl-project](https://github.com/svetlyak40wt/cookiecutter-cl-project): A template for Common Lisp project with bootstrap script and Slime integration.
+
+### Vscode Extension
+
+* [cookiecutter-vscode](https://github.com/caizhengxin/cookiecutter-vscode): A template for vscode extension.
 
 ### Elm
 
